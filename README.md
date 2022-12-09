@@ -1,2 +1,2 @@
 # pythonChat
-Barebones multi-channel chat application
+Simple multithreaded chat application
